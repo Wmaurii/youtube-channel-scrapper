@@ -1,0 +1,6 @@
+{
+    "max_videos_to_scrape": 30,
+    "max_comments_per_video": 500,
+    "scrape_captions": false,
+    "caption_languages": ["en"]
+}
